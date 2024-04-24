@@ -23,3 +23,5 @@ IBSR_FDNetX2_Val3.h5 : Weight file obtained with FDNetX2 for IBSR dataset fold-3
 IBSR_FDNetX3_Val4.h5 : Weight file obtained with FDNetX3 for IBSR dataset fold-4.
 
 IBSR_FDNetX4_Val5.h5 : Weight file obtained with FDNetX4 for IBSR dataset fold-5.
+
+All three datasets were split 5-fold after the test data was separated. Weight files for each dataset are uploaded here. The files above are sampled according to their names.
