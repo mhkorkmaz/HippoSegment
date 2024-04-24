@@ -1,4 +1,5 @@
 FDNetXn model codes in file "fdNetXn_models.py".
+
 ADNI_FDNetX2_Val1.h5 : Weight file obtained with FDNetX2 for ADNI dataset fold-1.
 
 ADNI_FDNetX2_Val5.h5 : Weight file obtained with FDNetX2 for ADNI dataset fold-5.
