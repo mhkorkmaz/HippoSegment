@@ -1,4 +1,4 @@
-#-----------Feature Domination Unet with Two Skip Connections (FDNetX2)---------------
+#-----------Feature Domination Unet with Two Skip Connections (FDNetX2)------------
 def fdNetX2(input_size = (64,64,1)):
     import tensorflow as tf
     from tensorflow.keras.optimizers import Adam
